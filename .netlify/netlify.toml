@@ -1,0 +1,27 @@
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "/Users/inveetode/Library/Application Support/Claude/local-agent-mode-sessions/f0321afa-9ab9-491f-adc6-712c75eeb79c/e198c61c-38f1-4c9d-84f4-78a84a381b37/local_67900340-76c7-405b-b7cb-e70978909a2d/outputs/couples-game/dist"
+publishOrigin = "ui"
+commandOrigin = "ui"
+command = "npm run build"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
